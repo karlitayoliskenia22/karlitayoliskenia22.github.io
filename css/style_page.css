@@ -1,0 +1,208 @@
+@import url("CreteRound_Regular/stylesheet.css");
+@import url("Arial_Rounded_MT/stylesheet.css");
+
+header h1 {
+    width: auto;
+    color: rgba(253,224,255,1.00);
+    text-align: center;
+    font-size: 44px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "CreteRound Regular";
+}
+nav ul li {
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+    width: 83px;
+    height: 23px;
+    margin-left: 20px;
+    border-radius: 40px;
+    border: 2px solid rgba(236,133,152,1.00);
+    background-color: rgba(145,0,51,1.00);
+}
+nav {
+    background-color: rgba(255,197,236,1.00);
+}
+main {
+    background-color: rgba(252,223,255,1.00);
+}
+main section {
+    background-color: rgba(227,131,227,1.00);
+}
+footer {
+    background-color: rgba(111,8,121,1.00);
+}
+footer h5 {
+    color: rgba(252,223,255,1.00);
+    text-align: center;
+    font-family: abel;
+    font-style: normal;
+    font-weight: 400;
+}
+
+header,  {
+    background-color: rgba(224,22,26,1.00);
+    width: px;
+    height: 100px;
+}
+header  {
+    background-color: rgba(248,140,255,1.00);
+    height: 100px;
+}
+header , nav ,main,footer{
+    width: 1024px;
+    margin-left: auto;
+    padding: 20px;
+    margin-right: auto;
+}
+#img_0 {
+    width: 370px;
+    height: 232px;
+}
+.img_1 {
+    border-radius: 100%;
+    width: 30%;
+    border: 28px solid rgba(249,183,255,1.00);
+    display: block;
+    margin-left: 335px;
+}
+#img_2 {
+    width: 15%;
+    float: right;
+    margin-right: 12px;
+    margin-left: 21px;
+    margin-bottom: 10px;
+}
+#img_3 {
+    width: 66px;
+    margin-right: 24px;
+    margin-bottom: 10px;
+    margin-left: 13px;
+    float: left;
+}
+#fondo_1 {
+    background-image: url(../imagenes/perro_5.jpg);
+    background-position: 231% -13%;
+}
+.img_filter_size {
+    width: 26%;
+    margin-right: 6px;
+    margin-left: 6px;
+    padding-left: 55px;
+}
+main section h2 {
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 27px;
+    font-family: "CreteRound Regular";
+    color: rgba(255,211,212,1.00);
+    padding-right: 30px;
+}
+main section p {
+    padding-top: 27px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: "Arial Rounded MT";
+    color: rgba(104,24,72,1.00);
+}
+
+
+.negativo {
+    filter: invert(100%);
+}
+.contraste {
+    filter: contrast(180%);
+}
+.brillo {
+    filter: brightness(150%);
+}
+.opacity {
+    filter: opacity(30%);
+}
+.sepia {
+    filter: sepia(90%);
+}
+.escala_grises {
+    filter: grayscale(100%);
+}
+
+
+
+
+
+
+.desenfocar {
+    filter: blur(3px);
+}
+
+.sombra {
+    filter: drop-shadow(5px 5px 10px white);
+}
+
+
+.p1 {
+    text-align: right;
+    width: 400px;
+    background-color: rgba(238,174,175,0.50);
+    margin-left: 31px;
+}
+
+
+
+
+
+#img_1 {
+    width: 50%;
+}
+.imgyo1 {
+    width: 16%;
+    height: auto;
+    float: right;
+    margin-left: 20px;
+}
+ul li a {
+    text-decoration: none;
+    color: rgba(226,123,125,1.00);
+}
+.audio {
+    margin-left: 144px;
+}
+.audio1 {
+    width: 35px;
+}
+.video {
+    display: inherit;
+    margin-left: 158px;
+}
+.video2 {
+    width: 57%;
+    margin-left: 152px;
+    margin-right: auto;
+}
+.img3 {
+    width: 231px;
+    height: auto;
+    float: left;
+    padding-left: 26px;
+    padding-right: 20px;
+}
+.video5 {
+    height: auto;
+    width: 34%;
+    float: right;
+    padding-right: 5px;
+    padding-bottom: 21px;
+    padding-top: 0px;
+}
+.img6 {
+    height: auto;
+    width: 15%;
+    float: right;
+    padding-right: 0px;
+    padding-left: 16px;
+    padding-top: 0px;
+    margin-bottom: -2px;
+    margin-top: -82px;
+}
